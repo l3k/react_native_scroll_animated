@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com a finalidade apenas para estudos de animaçõe
 ## 🤔 Como excutar
 
 - Faça o clone ou download do projeto;
-- Acesse as pastas separadamente e execute: `npm install`;
+- Acesse a pasta do projeto e execute: `npm install`;
 - Em cada pasta sera necessário executar: `npm start` para rodar o projeto;
 
 
